@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aura-skill-5r01.onrender.com/sitemap.xml
